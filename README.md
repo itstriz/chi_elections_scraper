@@ -25,7 +25,7 @@ The election contest listing present you with a select element named *D3* that c
 
 The first listing presented shows a listing by wards. The ward includes a link to drill down into the precinct level data. It appears you must submit the form at the election contest listing to get to this data.
 #### Precinct Level
-![Precinct Level](http://i.imgur.com/iQGT5j1.png)
+![Precinct Level](http://i.imgur.com/mJeDmbN.png)
 
 http://www.chicagoelections.com/en/pctlevel3.asp?Ward=##&elec_code=##&race_number=##
 
